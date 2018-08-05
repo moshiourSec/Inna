@@ -10,7 +10,7 @@ Requirements to run this app:
 
 3. Iphone
 
-4. installing pod
+4. installing pod (which is present on the projce pod files.)
 
 5. import Api.ai
 
