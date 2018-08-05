@@ -24,12 +24,13 @@ after successfully done installation then follow the next steps-
 6. Using google's Dialogflow
 
 Process:
+
 	1. At first we need an mac os operating system.
 	2. Then we need Xcode
 	3. Then need to Pod install Firebase
 	4. Installing pod file ApiAi
-	   5. Installing JSQMessagesViewController
-	   6. Then run the project and use the application. 
+	5. Installing JSQMessagesViewController
+	6. Then run the project and use the application. 
 
 
 
